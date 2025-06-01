@@ -16,6 +16,9 @@ quotes = ["", "", "",
     "\"DSA ou ni, ore wa naru! – Nripesh Bhusal"
 ]
 
+
+
+
 # Display the quotes
 for quote in quotes:
     st.write(quote)
