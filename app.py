@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="Happy Birthday Nripesh", layout="centered")
 
 # Main title and subtitle
-#pajji ka bday kab 
+#       pajji ka bday kab 
 st.title("Happy Birthday Nripesh!!")
 st.subheader("🎉🎉✨✨")
 
