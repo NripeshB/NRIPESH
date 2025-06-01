@@ -4,7 +4,8 @@ import streamlit as st
 st.set_page_config(page_title="Happy Birthday Nripesh", layout="centered")
 
 # Main title and subtitle
-st.title("Happy Birthday Nripesh")
+
+st.title("Happy Birthday Nripesh!!")
 st.subheader("🎉🎉✨✨")
 
 # One Piece quotes to complement the celebration
